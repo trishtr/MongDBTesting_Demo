@@ -1,0 +1,15 @@
+[INFO ] 2022-05-27 08:42:55.745 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-27 08:42:55.752 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-27 08:42:57.537 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-27 08:49:32.522 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-27 08:49:32.524 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-27 08:49:34.281 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-27 08:57:02.916 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-27 08:57:02.919 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-27 08:57:04.585 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-27 09:15:01.543 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-27 09:15:01.545 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-27 09:15:03.292 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-27 11:04:07.873 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-27 11:04:07.875 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-27 11:04:09.550 [main] Log - verify the document contains Testing Unit_101

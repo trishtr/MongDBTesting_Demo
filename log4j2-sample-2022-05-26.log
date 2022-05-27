@@ -1,0 +1,75 @@
+[INFO ] 2022-05-26 07:37:19.135 [main] Log - Connect to nursingUnit inside sample_SMC database
+[INFO ] 2022-05-26 07:40:34.973 [main] Log - Connect to nursingUnit inside sample_SMC database
+[INFO ] 2022-05-26 07:51:03.424 [main] Log - Connect to nursingUnit inside sample_SMC database
+[INFO ] 2022-05-26 10:15:07.271 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 10:15:07.273 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 10:15:09.442 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 10:15:09.501 [main] Log - Verify system successfully create Document with simple content
+[INFO ] 2022-05-26 10:15:09.775 [main] Log - Print created document in Json format
+[INFO ] 2022-05-26 10:16:01.554 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 10:16:01.556 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 10:16:03.347 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 10:16:03.352 [main] Log - Verify system successfully create Document with simple content
+[INFO ] 2022-05-26 10:16:03.628 [main] Log - Print created document in Json format
+[INFO ] 2022-05-26 12:04:02.667 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 12:04:02.670 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 12:13:12.759 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 12:13:12.761 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 15:25:29.232 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 15:25:29.235 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 15:25:30.738 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 15:31:18.744 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 15:31:18.746 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 15:31:20.400 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 15:36:11.565 [main] Log - Verify the connection is successfully made
+[INFO ] 2022-05-26 15:36:11.591 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.591 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.591 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.592 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.592 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.592 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.593 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.593 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.594 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.594 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.594 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.594 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.595 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:11.595 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.102 [main] Log - Verify the connection is successfully made
+[INFO ] 2022-05-26 15:36:37.128 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.128 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.129 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.129 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.129 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.130 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.130 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.130 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.131 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.131 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.132 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.132 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.133 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:36:37.133 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:37:04.508 [main] Log - Verify the connection is successfully made
+[INFO ] 2022-05-26 15:37:04.511 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:37:15.880 [main] Log - Verify the connection is successfully made
+[INFO ] 2022-05-26 15:37:15.883 [main] Log - verify the database exists and not empty
+[INFO ] 2022-05-26 15:37:34.876 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 15:37:34.878 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 15:37:36.542 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 15:41:48.328 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 15:41:48.335 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 15:41:50.054 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 15:43:24.834 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 15:43:24.836 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 15:43:26.387 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 16:04:53.845 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 16:04:53.849 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 16:04:55.513 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 22:55:02.102 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 22:55:02.105 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 22:55:03.394 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-26 22:55:47.439 [main] Log - Verify system successfully create Document with complex content
+[INFO ] 2022-05-26 22:55:47.440 [main] Log - create complex document inside testing collection
+[INFO ] 2022-05-26 22:55:48.917 [main] Log - verify the document contains Testing Unit_101
