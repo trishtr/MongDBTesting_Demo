@@ -45,9 +45,6 @@ public class InsertOne {
         //Assert.assertTrue(nursingUnitDocTest2Json.contains("Testing Unit_101"));
 
 
-        Gson gson = new Gson();
-        NursingUnit nursingUnitOb = gson.fromJson(nursingUnitDocTest2Json, NursingUnit.class);
-        Assert.assertTrue(nursingUnitOb.equals("Testing Manager101"));
 
     }
     public static Document createNewDocument() {

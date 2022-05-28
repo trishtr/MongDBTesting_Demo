@@ -7,7 +7,7 @@ public class Department {
     private String description;
     private String customerId;
     List internalIds;
-    String[] chargeCodes;
+    List chargeCodes;
 
 
     // Getter Methods
@@ -28,7 +28,7 @@ public class Department {
         return internalIds;
     }
 
-    public String[] getChargeCodes() {
+    public List getChargeCodes() {
         return chargeCodes;
     }
 
@@ -54,7 +54,7 @@ public class Department {
         return this;
     }
 
-    public Department setChargeCodes(String[] chargeCodes) {
+    public Department setChargeCodes(List chargeCodes) {
         this.chargeCodes = chargeCodes;
         return this;
     }

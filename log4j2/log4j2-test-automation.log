@@ -13,3 +13,6 @@
 [INFO ] 2022-05-27 11:04:07.873 [main] Log - Verify system successfully create Document with complex content
 [INFO ] 2022-05-27 11:04:07.875 [main] Log - create complex document inside testing collection
 [INFO ] 2022-05-27 11:04:09.550 [main] Log - verify the document contains Testing Unit_101
+[INFO ] 2022-05-27 16:04:02.535 [main] Log - verifying unitManager has value: testing manager
+[INFO ] 2022-05-27 16:05:34.719 [main] Log - verifying unitManager has value: testing manager
+[INFO ] 2022-05-27 16:05:34.725 [main] Log - verifying clientId has value : testing

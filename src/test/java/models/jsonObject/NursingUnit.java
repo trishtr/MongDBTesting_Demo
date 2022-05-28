@@ -23,7 +23,7 @@ public class NursingUnit {
     private String unitType;
 
     private List internalIds;
-    private String[] customerIds;
+    private List customerIds;
 
     //DepartmentObject
     Department department;
@@ -88,12 +88,12 @@ public class NursingUnit {
         return this;
     }
 
-    public String[] getCustomerIds() {
+    public List getCustomerIds() {
         return customerIds;
     }
 
-    public NursingUnit setCustomerIds(String[] id) {
-        this.customerIds = id;
+    public NursingUnit setCustomerIds(List<String> cusid) {
+        this.customerIds = cusid;
         return this;
     }
 
@@ -150,57 +150,5 @@ public class NursingUnit {
                 '}';
     }
 
-    public static void main(String[] args) throws IOException {
 
-        Clients client = new Clients();
-        client.setClientId("testing");
-        client.setName("abc");
-        client.setLocationId("123");
-
-        InternalIds internalIds = new InternalIds();
-        internalIds.setDomain("test");
-        internalIds.setDomainId("testid");
-
-        Department department = new Department();
-
-        department.setName("testing");
-        department.setDescription("abc");
-        department.setCustomerId("123");
-        department.setInternalIds(Arrays.asList(internalIds));
-        department.setChargeCodes(new String[] {"999-9999"});
-
-        Facility facility = new Facility();
-        facility.setName("testing");
-        facility.setType("tesing");
-        facility.setCustomerId("testid");
-        facility.setInternalIds(Arrays.asList(internalIds));
-
-        Region region = new Region();
-        region.setName("Default");
-        region.setInternalIds(Arrays.asList(internalIds));
-
-        NetworkSM network = new NetworkSM();
-        network.setName("Default");
-        network.setInternalIds(Arrays.asList(internalIds));
-
-
-        NursingUnit nursingUnit = new NursingUnit();
-        nursingUnit.setClientObject(client);
-        nursingUnit.setInternalIds(Arrays.asList(internalIds));
-        nursingUnit.setCustomerIds(new String[]{"abc"});
-        nursingUnit.setDepartmentObject(department);
-        nursingUnit.setFacilityObject(facility);
-        nursingUnit.setRegionObject(region);
-        nursingUnit.setNetworkObject(network);
-
-        System.out.println(nursingUnit.toString());
-
-        Gson gson = new Gson();
-        System.out.println(System.getProperty("user.dir"));
-        //gson.toJson(nursingUnit, new FileWriter(System.getProperty("user.dir") + "/data.json"));
-        String jsonObj = gson.toJson(nursingUnit);
-        System.out.println(jsonObj);
-
-
-    }
 }
